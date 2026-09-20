@@ -2,7 +2,7 @@ import BannerImg from "../assets/banner-stack.png";
 
 const Banner = () => {
   return (
-    <section className="px-[180px] py-[100px] " >
+    <section className="px-45 py-25 " >
       
 
          <div className="flex items-center justify-between" >
