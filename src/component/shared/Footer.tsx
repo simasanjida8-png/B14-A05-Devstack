@@ -2,7 +2,7 @@ import Logo from '../../assets/logo-text.png'
 import './Footer.css'
 const Footer = () => {
     return (
-       <footer className="bg-white border-2 border-gray-100 ">
+       <footer className="bg-white border-2 border-gray-100 rounded-[50px]">
         <div  className="footer-top">
             <div className='w-75'>
                 <img src={Logo} alt="Dev Stack" />
