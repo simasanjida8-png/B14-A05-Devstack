@@ -7,5 +7,12 @@ export interface TechnologysProps {
 
 export default function Technologys({ technology}: TechnologysProps) {
     
-    return 
+    return (
+      <div>
+        <h2>
+          {technology.name}
+        </h2>
+        <p>{technology.description}</p>
+      </div>
+    )
 }
