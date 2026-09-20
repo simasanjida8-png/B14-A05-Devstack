@@ -1,0 +1,34 @@
+.footer-top{
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 65px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-dis{
+    margin-top: 16px;
+    gap: 5px;
+    color: #5a6a81;
+
+}
+
+.footer-social{
+
+    display: flex;
+    gap:10px;
+    padding-top: 20px;
+    color: #171f2b;
+}
+
+.footer-productt{
+    font-weight: bold;
+}
+
+.footer-ul{
+      color: #5a6a81;
+      margin-top: 16px;
+     /* padding-bottom: 16px; */
+     /* gap: 20px; */
+}
+

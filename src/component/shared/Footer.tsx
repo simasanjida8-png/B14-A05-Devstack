@@ -1,15 +1,16 @@
 import Logo from '../../assets/logo-text.png'
-
+import './Footer.css'
 const Footer = () => {
     return (
-       <footer className="pt-6 bg-[#FFFFFF] ">
-        <div  className="  container mx-auto flex justify-between items-center">
-            <div>
+       <footer className="bg-white border-t border-gray-100 ">
+        <div  className="footer-top">
+            <div className='w-75'>
                 <img src={Logo} alt="Dev Stack" />
             
-                <p>Curated tools, technologies, and resources for developers building
+                <p className='footer-dis'>Curated tools, technologies, and resources for 
+                    developers building
                    modern software.</p>
-                   <ul className='flex justify-center items-center gap-5'>
+                   <ul className='footer-social'>
                     <li>
                         <a href="#">GitHub</a>
                     </li>
@@ -22,10 +23,10 @@ const Footer = () => {
                    </ul>
             </div>
 
-            <div>
-                <h2>PRODUCT</h2>
+            <div >
+                <h2 className='footer-productt'>PRODUCT</h2>
             
-                <ul>
+                <ul className='footer-ul'>
                     <li>Home</li>
                     <li>Technologies</li>
                     <li>Projects</li>
@@ -34,8 +35,8 @@ const Footer = () => {
 
 
             <div>
-                <h2>COMPANY</h2>
-                <ul>
+                <h2 className='footer-productt'>COMPANY</h2>
+                <ul className='footer-ul'>
                     <li>About</li>
                     <li>Contact</li>
                     <li>Careers</li>
@@ -43,8 +44,8 @@ const Footer = () => {
 
             </div>
             <div>
-                <h2>LEGAL</h2>
-                <ul>
+                <h2 className='footer-productt'>LEGAL</h2>
+                <ul className='footer-ul'>
                     <li>Privacy Policy</li>
                     <li>Terms of Service</li>
                    
