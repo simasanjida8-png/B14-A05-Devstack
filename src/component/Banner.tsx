@@ -12,7 +12,7 @@ const Banner = () => {
         {/* all tags here */}
         <div className="w-[55%]  ">
         <h1 className=" max-w-xl text-[60px] texr-lg font-bold">Build Your Ideal <br />
-            <span className="bg-gradient-to-r from-orange-500 to-pink-500 to-purple-600 bg-clip-text text-transparent">Development Stack</span></h1>
+            <span className="bg-linear-to-r from-orange-500 via-pink-500 to-purple-600 bg-clip-text text-transparent">Development Stack</span></h1>
         
 
         <p className="text-[20px] py-8">
@@ -23,7 +23,7 @@ const Banner = () => {
        
 
         <div className=" flex gap-5">
-          <button className=" rounded-lg  text-[#FFFFFF] bg-gradient-to-r from-orange-500 to-pink-500 px-6 py-3 "> Explore Technologies </button>
+          <button className=" rounded-lg  text-[#FFFFFF] bg-linear-to-r from-orange-500 to-pink-500 px-6 py-3 "> Explore Technologies </button>
           <button className="rounded-lg border border-gray-400 px-12 py-3 ">Learn More</button>
         </div>
        </div>
