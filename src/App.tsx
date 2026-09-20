@@ -4,6 +4,7 @@ import Banner from './component/Banner';
 import Technology from './technology/Technology';
 import { Suspense } from 'react';
 import type { TechnologyType } from './type/Type';
+import Bootom from './component/shared/Bootom';
 
 
 const technologyFetch = async():Promise<TechnologyType[]> =>{
@@ -35,6 +36,7 @@ const App = () => {
    </main>
    
     <Footer />
+    <Bootom />
     </div>
   );
 };
