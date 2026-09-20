@@ -1,0 +1,122 @@
+[
+  {
+    "name": "React",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Popular",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces."
+  },
+  {
+    "name": "Vue.js",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.8,
+    "badge": "Versatile",
+    "description": "An approachable, performant, and versatile framework for building web user interfaces."
+  },
+  {
+    "name": "Svelte",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Fast",
+    "description": "A cybernetically enhanced web app framework that compiles your code at build time."
+  },
+  {
+    "name": "Next.js",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "SSR / Edge",
+    "description": "The React framework for full-stack web applications with server-side rendering and static generation."
+  },
+  {
+    "name": "Node.js",
+    "category": "Backend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Standard",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "name": "PostgreSQL",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Top SQL",
+    "description": "A powerful, open-source object-relational database system known for reliability and performance."
+  },
+  {
+    "name": "Redis",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.7,
+    "badge": "Cache",
+    "description": "An in-memory data structure store used as a database, cache, and message broker."
+  },
+  {
+    "name": "JavaScript",
+    "category": "Language",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Ubiquitous",
+    "description": "The versatile, ubiquitous scripting language powering dynamic behavior across the web."
+  },
+  {
+    "name": "TypeScript",
+    "category": "Language",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Essential",
+    "description": "A strongly typed programming language that builds on JavaScript for robust tooling."
+  },
+  {
+    "name": "Express.js",
+    "category": "Backend",
+    "level": "Beginner-Friendly",
+    "rating": 4.7,
+    "badge": "Minimal",
+    "description": "A fast and minimalist web framework for Node.js used to build APIs and web applications."
+  },
+  {
+    "name": "MongoDB",
+    "category": "Database",
+    "level": "Beginner-Friendly",
+    "rating": 4.7,
+    "badge": "NoSQL",
+    "description": "A document-oriented NoSQL database designed for flexibility, scalability, and modern applications."
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "level": "Beginner-Friendly",
+    "rating": 4.8,
+    "badge": "Utility-First",
+    "description": "A utility-first CSS framework for rapidly building custom and responsive user interfaces."
+  },
+  {
+    "name": "Git",
+    "category": "Tooling",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Essential",
+    "description": "A distributed version control system for tracking changes and collaborating on software projects."
+  },
+  {
+    "name": "Docker",
+    "category": "Tooling",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Containers",
+    "description": "A platform for developing, shipping, and running applications using lightweight containers."
+  },
+  {
+    "name": "Vite",
+    "category": "Tooling",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Lightning Fast",
+    "description": "A modern frontend build tool that provides a fast development experience and optimized production builds."
+  }
+]
