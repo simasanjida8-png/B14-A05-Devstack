@@ -31,8 +31,8 @@ const Navbar = () => {
                 </ul>
             
             <div className=' flex gap-5'>
-                <button>Sign In</button>
-                <button className='border-transparent rounded-[25px] px-5 py-2.5  bg-[#DB2777] text-[#FFFFFF]'>Sign Up</button>
+                <button className='rounded-[25px] px-5 py-2.5'>Sign In</button>
+                <button className=' rounded-[25px] px-5 py-2.5  bg-[#DB2777] text-[#FFFFFF]'>Sign Up</button>
                 </div>
         </div>
        </nav>
